@@ -1,4 +1,4 @@
-[![MasterHead]()]
+
 
 <h1 align="center">Hi 👋, I'm Vinayak Upadhyay</h1>
 <h3 align="center">Trying to figure out things</h3>
