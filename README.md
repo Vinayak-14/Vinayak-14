@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-14&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-14" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
 - 📫 How to reach me **vinayak14upadhyay@gmail.com**
 
