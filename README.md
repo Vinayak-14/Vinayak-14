@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vinayak Upadhyay</h1>
-<h3 align="center">Trying to Understand the language of 0s and 1s!!</h3>
+<h3 align="center">I am Trying to Understand the language of 0s and 1s!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-14&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-14" /> </p>
 
